@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-.langgraph_api
+.langgraph_api/
 *.env
